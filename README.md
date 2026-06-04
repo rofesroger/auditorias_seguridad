@@ -1,10 +1,70 @@
 # Cybersecurity Portfolio - Roger Rofes Garrido
 
-Este repositorio contiene documentación técnica, informes de auditoría realizados como parte de mi formación y práctica profesional en ciberseguridad.
+Repositorio que recopila auditorías de seguridad e investigaciones forenses realizadas en entornos controlados y empresariales.
 
-##  Proyectos de Auditoría
-En esta sección se incluyen reportes detallados sobre análisis de vulnerabilidades y auditorías de seguridad.
+---
 
-* **Auditoria de seguridad en Asix.local**: Análisis de seguridad realizado sobre sobre un windows server 2022.
-    * **Habilidades demostradas:** Reconocimiento, explotación de vulnerabilidades OWASP Top 10 y propuestas de mitigación.
-    *  [Ver Reporte PDF](./Informe%20Auditoria%20de%20seguridad.pdf)
+## Objetivo
+
+Mostrar capacidades en:
+
+- Análisis de eventos de seguridad (Windows Logs)
+- Investigación de incidentes
+- Auditorías de seguridad
+- Identificación de causas raíz
+- Propuesta de mitigaciones
+
+---
+
+##  Casos de análisis
+
+###🔍 Auditoría de Seguridad – ASIX.local
+
+Análisis realizado sobre un entorno Windows Server 2022.
+
+- +1000 eventos analizados
+- Detección de ataque de fuerza bruta (4625 → 4624)
+- Identificación de accesos no autorizados
+- Propuesta de medidas de seguridad
+
+📎 Ver reporte completo → *(link o carpeta)*
+
+---
+
+###🔍 Análisis de Incidente – Apagado Crítico (False Positive)
+
+Investigación de un incidente reportado como posible malware.
+
+- Event ID 41 y 6008 analizados
+- Test de memoria sin errores
+- Inspección física del equipo
+
+Resultado:
+Se descarta infección por malware.
+
+💥 Causa real:
+Sobrecalentamiento causado por batería degradada y uso prolongado conectado a corriente.
+
+📎 Ver análisis completo → *(link o carpeta)*
+
+---
+
+## Tecnologías utilizadas
+
+- Windows Event Viewer
+- PowerShell
+- Diagnóstico de Hardware
+- Microsoft Azure / Intune
+
+---
+
+## 🚀 En desarrollo
+
+Ampliando el portfolio con:
+
+- Laboratorio de detección y respuesta (Blue Team)
+- Análisis forense avanzado
+- Seguridad en entornos cloud
+
+---
+``
