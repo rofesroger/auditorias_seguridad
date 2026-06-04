@@ -18,7 +18,7 @@ Mostrar capacidades en:
 
 ##  Casos de análisis
 
-##🔍 Auditoría de Seguridad – ASIX.local
+🔍 Auditoría de Seguridad – ASIX.local
 
 Análisis realizado sobre un entorno Windows Server 2022.
 
@@ -31,7 +31,7 @@ Análisis realizado sobre un entorno Windows Server 2022.
 
 ---
 
-##🔍 Análisis de Incidente – Apagado Crítico (False Positive)
+🔍 Análisis de Incidente – Apagado Crítico (False Positive)
 
 Investigación de un incidente reportado como posible malware.
 
