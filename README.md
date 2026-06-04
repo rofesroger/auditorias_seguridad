@@ -27,7 +27,7 @@ Análisis realizado sobre un entorno Windows Server 2022.
 - Identificación de accesos no autorizados
 - Propuesta de medidas de seguridad
 
-📎 Ver reporte completo → *(link o carpeta)*
+📎 Ver reporte completo → [Reporte completo](https://github.com/rofesroger/auditorias_seguridad/blob/main/Informe%20Auditoria%20de%20seguridad.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ Se descarta infección por malware.
 💥 Causa real:
 Sobrecalentamiento causado por batería degradada y uso prolongado conectado a corriente.
 
-📎 Ver análisis completo → [Ver reporte completo](https://github.com/rofesroger/auditorias_seguridad/blob/main/Auditor%C3%ADa%20empresa%20laptop%20mantenimento.pdf)
+📎 Ver análisis completo → [Reporte completo](https://github.com/rofesroger/auditorias_seguridad/blob/main/Auditor%C3%ADa%20empresa%20laptop%20mantenimento.pdf)
 
 ---
 
