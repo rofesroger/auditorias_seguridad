@@ -45,7 +45,7 @@ Se descarta infección por malware.
 💥 Causa real:
 Sobrecalentamiento causado por batería degradada y uso prolongado conectado a corriente.
 
-📎 Ver análisis completo → *(link o carpeta)*
+📎 Ver análisis completo → *(https://github.com/rofesroger/auditorias_seguridad/blob/main/Auditor%C3%ADa%20empresa%20laptop%20mantenimento.pdf)*
 
 ---
 
