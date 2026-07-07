@@ -73,7 +73,7 @@ Se descarta la presencia de malware o indicadores de compromiso en el sistema.
 💥 Causa real:
 El usuario accedió a una página de descarga no oficial que empleaba técnicas de scareware para simular una infección y promover la contratación o instalación de un supuesto antivirus.
 
-📎 Ver análisis completo →  [Reporte completo](https://github.com/rofesroger/auditorias_seguridad/blob/main/Informe%20Auditoria%20de%20seguridad.pdf)
+📎 Ver análisis completo →  [Reporte completo](https://github.com/rofesroger/auditorias_seguridad/blob/main/Auditor%C3%ADa%20empresa%20equipo%20Operarios.pdf)]
 
 
 
