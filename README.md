@@ -58,22 +58,7 @@ Sobrecalentamiento causado por batería degradada y uso prolongado conectado a c
 
 ---
 
-🔍 Análisis de Incidente – Posible Troyano (Scareware)
 
-Investigación de un incidente reportado como posible infección por malware en un equipo Windows 11 gestionado mediante Intune y Azure.
-
-- Revisión de eventos Microsoft Defender (1116, 1117, 1118 y 5007)
-- Análisis del historial de navegación
-- Validación del estado del sistema mediante Microsoft Defender
-- Investigación de posible campaña de ingeniería social
-
-Resultado:
-Se descarta la presencia de malware o indicadores de compromiso en el sistema.
-
-💥 Causa real:
-El usuario accedió a una página de descarga no oficial que empleaba técnicas de scareware para simular una infección y promover la contratación o instalación de un supuesto antivirus.
-
-📎 Ver análisis completo →  [Reporte completo](https://github.com/rofesroger/auditorias_seguridad/blob/main/Auditor%C3%ADa%20empresa%20equipo%20Operarios.pdf)
 
 
 
